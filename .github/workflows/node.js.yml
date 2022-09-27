@@ -1,9 +1,9 @@
 name: CI2
 
 env:
-  API_KEY: ${{secrets.API_KEY}}
-  USERNAME: ${{secrets.USERNAME}}
-  ACCESS_KEY: ${{secrets.ACCESS_KEY}}
+  SAUCE_API_KEY: ${{secrets.SAUCE_API_KEY}}
+  SAUCE_USERNAME: ${{secrets.SAUCE_USERNAME}}
+  SAUCE_ACCESS_KEY: ${{secrets.SAUCE_ACCESS_KEY}}
 
 on:
   push: 
