@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
           data-testId="name-link"
         >
-          Mohsen Faghih Owner
+          Mohsen Faghih
         </a>
       </header>
     </div>
